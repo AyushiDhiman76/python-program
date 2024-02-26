@@ -1,4 +1,4 @@
-#WAP to display the first occurance of number divisible by kin the list
+#WAP to display the first occurance of number divisible by k in the list
 def first_divisible_by_k(numbers, k):
     for num in numbers:
         if num % k == 0:
